@@ -1,1 +1,1 @@
-read 
+uv init 
